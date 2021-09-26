@@ -1,0 +1,21 @@
+11111|NIKE |T shirt A|P|download.jpg|#
+22222|NIKE |Pants !|P|nikep1.jpg|#
+33333|ADIDAS|shirt1|P|adi s1.jpg|#
+44444|ADIDAS|pant 1|Y|adi p1.jpg|#
+55555|PUMA |T shirt 1|Y|puma sh1.jpg|#12345|SUPERDRY |Skirt1|Y|skirt1.jpg|#
+11223|KURTA BIBA|Kurta 1|Y|kurta.jpg|#
+98911|ADIDAS|Jacket|Y|addidas.jpg|#
+44321|VERO MODA|Top |Y|top.jpg|#
+44211|H & M|Hoodie|Y|hoodie.jpg|#
+77431|NIKE|Active ware|Y|activewear.jpg|#
+22541|20 DRESSES|20 dress|Y|20dresses.jpg|#
+11165|MANYAVAR|Suit|Y|suit.jpg|#
+99813|ZARA|Trousers|P|trousers.jpg|#
+55361|PUMA|Top|Y|toppuma.jpg|#
+77491|PANTALOONS|jumpsuit|Y|jumpsuit.jpg|#
+88901|H & M|Cardigan|Y|cardigan.jpg|#
+99012|CHUMBAK|Wraps|Y|wraps.jpg|#
+88891|ALLEN SOLLY|Shorts|Y|shorts.jpg|#
+10293|LIBAS|Kurtaset|Y|kurthaset.jpg|#
+00001|NIKE|kl|Y|top.jpg|#
+
